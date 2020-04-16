@@ -7,3 +7,8 @@ test('renders learn react link', () => {
   const linkElement = getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+describe('My Test Suite', () => {
+  it('My Test Case', () => {
+    expect(true).toEqual(true);
+  });
+});

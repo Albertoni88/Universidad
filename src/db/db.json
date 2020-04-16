@@ -1,0 +1,54 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Alberto Hondal Hernandez",
+      "edad": "31",
+      "sexo": "Masculino",
+      "email": "albertohondalii@gmail.com",
+      "fechaNacimiento": "28-09-1988",
+      "lugarNacimiento": "2",
+      "grupoId": 4,
+      "id": 1
+    }
+  ],
+  "grupos": [
+    {
+      "nombre": "8101",
+      "profesorId": "2",
+      "id": 4
+    },
+    {
+      "nombre": "A-56",
+      "profesorId": "3",
+      "id": 5
+    }
+  ],
+  "ciudades": [
+    {
+      "id": 1,
+      "nombre": "Havana"
+    },
+    {
+      "id": 2,
+      "nombre": "Canada"
+    },
+    {
+      "id": 3,
+      "nombre": "Argentina"
+    }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Julio"
+    },
+    {
+      "id": 2,
+      "nombre": "Miguel"
+    },
+    {
+      "id": 3,
+      "nombre": "Jesus"
+    }
+  ]
+}
